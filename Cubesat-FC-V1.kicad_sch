@@ -1,0 +1,613 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f01d9098-91c1-4e97-a02a-fecce6a76317")
+	(paper "A4")
+	(lib_symbols)
+	(text "Check out https://pcbreview.net/ for AI schematic / board reviews"
+		(exclude_from_sim no)
+		(at 12.446 13.716 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "94a56a70-8117-44d7-91ed-5b9d35248277")
+	)
+	(wire
+		(pts
+			(xy 114.3 43.18) (xy 127 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00a221f2-8bd9-4234-93ea-4207260e821a")
+	)
+	(wire
+		(pts
+			(xy 114.3 91.44) (xy 127 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08072c2d-6d55-47b4-83bd-215cfa4d5d54")
+	)
+	(wire
+		(pts
+			(xy 114.3 48.26) (xy 127 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5aae15ba-0fc0-411c-b935-5ad629130286")
+	)
+	(wire
+		(pts
+			(xy 114.3 71.12) (xy 127 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d22ccd6-bf69-4c5b-b2d4-ffab16444993")
+	)
+	(wire
+		(pts
+			(xy 114.3 53.34) (xy 127 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dc7a300-2648-4870-988b-f3cd9c3474d3")
+	)
+	(bus
+		(pts
+			(xy 101.6 66.04) (xy 114.3 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b7539bb-b5e3-4d4a-a852-b5c05704ac1d")
+	)
+	(wire
+		(pts
+			(xy 114.3 45.72) (xy 127 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "947e4a73-3a4e-41c3-9b08-a5a4c8bc7bac")
+	)
+	(wire
+		(pts
+			(xy 114.3 73.66) (xy 127 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c3df088-9aaa-47c9-83b9-0fad0c999275")
+	)
+	(wire
+		(pts
+			(xy 114.3 58.42) (xy 127 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fc0eba8-386f-48b2-a37b-8bfc9c01a1f1")
+	)
+	(bus
+		(pts
+			(xy 114.3 96.52) (xy 127 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b74c698f-f0ac-4b3e-956f-17127f0877e5")
+	)
+	(wire
+		(pts
+			(xy 114.3 63.5) (xy 127 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7efa493-6e46-4743-b816-bc1239c35908")
+	)
+	(wire
+		(pts
+			(xy 114.3 55.88) (xy 127 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c39b314f-37ba-4765-9e1a-c141babfdab0")
+	)
+	(wire
+		(pts
+			(xy 114.3 66.04) (xy 127 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c80df2db-5816-4033-a1b6-2f953f88825e")
+	)
+	(wire
+		(pts
+			(xy 114.3 93.98) (xy 127 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed8fd268-397f-4d88-a981-2f613cf5f131")
+	)
+	(sheet
+		(at 76.2 38.1)
+		(size 38.1 114.3)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "03db12b9-748b-42bd-b649-ae71f77d8e57")
+		(property "Sheetname" "STM32H747"
+			(at 76.2 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32H747.kicad_sch"
+			(at 76.2 152.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FMC{A[0..12] D[0..15]}" input
+			(at 114.3 40.64 0)
+			(uuid "25554175-bf80-4cad-acca-f1f78394a981")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "QSPI_CLK" input
+			(at 114.3 93.98 0)
+			(uuid "cced7427-9b11-460a-a261-600f388564c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FMCSDNWE" input
+			(at 114.3 48.26 0)
+			(uuid "3410c89f-483a-4a88-b178-c3e4a47766ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FMCSDNRAS" input
+			(at 114.3 53.34 0)
+			(uuid "e52e8c0c-9eb9-4533-bee3-49f2dfc39f70")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FMCBA0" input
+			(at 114.3 71.12 0)
+			(uuid "3eae8274-c01d-4c16-9f67-c11915409d67")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FMCBA1" input
+			(at 114.3 73.66 0)
+			(uuid "2c1a1f31-f76a-40a8-8118-b5fb3e37cff0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FMCSDNCAS" input
+			(at 114.3 55.88 0)
+			(uuid "1a3d2b80-d406-4f8f-8166-1a9a29eff587")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FMCSDNE0" input
+			(at 114.3 45.72 0)
+			(uuid "43439b12-331c-4311-a6ea-ca3ab092d4be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FMCSDCKE0" input
+			(at 114.3 58.42 0)
+			(uuid "24427a97-1db9-4dae-ba6c-499e3a42bd21")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FMCSDCLK" input
+			(at 114.3 43.18 0)
+			(uuid "58f6be2d-59a7-4d9f-8096-e5572ab11519")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FMCNBL0" input
+			(at 114.3 66.04 0)
+			(uuid "433e5ab7-c954-4395-9a3c-bf748f6553aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FMCNBL1" input
+			(at 114.3 63.5 0)
+			(uuid "d8b2a3b9-91da-4f20-ab7c-cb02102da2bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "QSPI_BK1_IO[0..3]" input
+			(at 114.3 96.52 0)
+			(uuid "2f859a27-a8f5-4293-ab11-844f5c341c05")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "QSPI_BK1_NCS" input
+			(at 114.3 91.44 0)
+			(uuid "96287379-a702-4d3a-a9f8-ee8ceb1b0061")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Cubesat-FC-V1"
+				(path "/f01d9098-91c1-4e97-a02a-fecce6a76317"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 38.1)
+		(size 25.4 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "353c0638-7d15-4c84-b70a-670532d5bdf1")
+		(property "Sheetname" "SDRAM"
+			(at 127 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SDRAM.kicad_sch"
+			(at 127 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FMCLQDM" input
+			(at 127 66.04 180)
+			(uuid "f666a022-c3c8-4a10-99e3-7acb709be32e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FMCCLK" input
+			(at 127 43.18 180)
+			(uuid "14c034fb-a3fe-4cec-8632-ed1fc7a0228f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FMCWE" input
+			(at 127 48.26 180)
+			(uuid "47a08b90-9bc4-41b1-8c2f-d853bd17a560")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FMCCAS" input
+			(at 127 55.88 180)
+			(uuid "e13ab483-80f7-43d5-988c-b3b8665c5a08")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FMCUQDM" input
+			(at 127 63.5 180)
+			(uuid "1b44472c-c18c-481b-9cb8-03f23d530957")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FMCRAS" input
+			(at 127 53.34 180)
+			(uuid "fcb647f1-9c54-428c-a1ba-9b7ff55c7a9e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FMCCKE" input
+			(at 127 58.42 180)
+			(uuid "07de662b-49b8-4d1f-8194-cc3b41bbb150")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FMC{A[0..12] D[0..15]}" input
+			(at 127 40.64 180)
+			(uuid "89f8b328-0692-4e4e-82aa-47495ba2940c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FMC_CS" input
+			(at 127 45.72 180)
+			(uuid "464eb283-d3bd-406d-a3f3-937eaa390744")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FMCBA0" input
+			(at 127 71.12 180)
+			(uuid "fe3360a1-3181-495a-9d07-8895f0ed8eeb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FMCBA1" input
+			(at 127 73.66 180)
+			(uuid "bb106a4f-b801-4ec0-907b-8aefe4d9276b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Cubesat-FC-V1"
+				(path "/f01d9098-91c1-4e97-a02a-fecce6a76317"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 114.3)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5c29e6cd-5ea5-46d0-bc5b-a591f61aeddb")
+		(property "Sheetname" "Inertial Measurement System"
+			(at 127 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMS.kicad_sch"
+			(at 127 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Cubesat-FC-V1"
+				(path "/f01d9098-91c1-4e97-a02a-fecce6a76317"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 88.9)
+		(size 25.4 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "df70517b-b72b-42a5-bf6b-49f6072d6722")
+		(property "Sheetname" "QSPI Flash"
+			(at 127 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "QSPI.kicad_sch"
+			(at 127 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "QSPI_FLASH0_CS" input
+			(at 127 91.44 180)
+			(uuid "231870bb-00b9-4d80-9362-52f3d35abacd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "QSPI_CLK" input
+			(at 127 93.98 180)
+			(uuid "253f5054-7557-49ca-9891-fc80a703fae8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "QSPI_BK1_IO[0..3]" input
+			(at 127 96.52 180)
+			(uuid "d7c26598-92eb-4423-b9dc-89a8f1d9872c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Cubesat-FC-V1"
+				(path "/f01d9098-91c1-4e97-a02a-fecce6a76317"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
