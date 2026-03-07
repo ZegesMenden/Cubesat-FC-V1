@@ -3,4 +3,6 @@
   (lib (name "w9825g6kh")(type "KiCad")(uri "${KIPRJMOD}/w9825g6kh.kicad_sym")(options "")(descr ""))
   (lib (name "icm-42688-p")(type "KiCad")(uri "${KIPRJMOD}/ICM-42688-P.kicad_sym")(options "")(descr ""))
   (lib (name "MMC5983MA")(type "KiCad")(uri "${KIPRJMOD}/MMC5983MA.kicad_sym")(options "")(descr ""))
+  (lib (name "SCH16T")(type "KiCad")(uri "${KIPRJMOD}/SCH16T.kicad_sym")(options "")(descr ""))
+  (lib (name "debug-connectors")(type "KiCad")(uri "${KIPRJMOD}/debug-connectors.kicad_sym")(options "")(descr ""))
 )
