@@ -778,7 +778,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e8cb16e-b573-4e5f-8c44-b3017a137ce8")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR0110"
 			(at 123.19 86.36 0)
 			(effects
 				(font
@@ -828,7 +828,7 @@
 		(instances
 			(project "Cubesat-FC-V1"
 				(path "/f01d9098-91c1-4e97-a02a-fecce6a76317/ca6c8c54-a6c6-4650-9150-e5152dbc00db"
-					(reference "#PWR0105")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -844,7 +844,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "794dfabc-c6f0-4128-865b-338da787e703")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR0109"
 			(at 67.31 76.2 0)
 			(effects
 				(font
@@ -894,7 +894,7 @@
 		(instances
 			(project ""
 				(path "/f01d9098-91c1-4e97-a02a-fecce6a76317/ca6c8c54-a6c6-4650-9150-e5152dbc00db"
-					(reference "#PWR0104")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -926,7 +926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Card:microSD_HC_Molex_47219-2001"
+		(property "Footprint" "Connector_Card:microSD_HC_Hirose_DM3D-SF"
 			(at 130.81 55.88 0)
 			(effects
 				(font
@@ -999,7 +999,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2da9847-47dc-418f-919b-933b274cae0d")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR0108"
 			(at 67.31 66.04 0)
 			(effects
 				(font
@@ -1049,7 +1049,7 @@
 		(instances
 			(project ""
 				(path "/f01d9098-91c1-4e97-a02a-fecce6a76317/ca6c8c54-a6c6-4650-9150-e5152dbc00db"
-					(reference "#PWR0103")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)

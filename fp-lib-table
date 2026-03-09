@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SCH16T")(type "KiCad")(uri "${KIPRJMOD}/SCH16T.pretty")(options "")(descr ""))
+)
