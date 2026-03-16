@@ -4378,6 +4378,15 @@
 				(hide yes)
 			)
 		)
+		(property "voltage" "10"
+			(at 109.22 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "12dd7367-cf35-48e0-aadb-f812a7df2df9")
 		)
@@ -6224,6 +6233,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 144.78 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "voltage" "10"
 			(at 144.78 30.48 0)
 			(effects
 				(font

@@ -1323,6 +1323,15 @@
 				(hide yes)
 			)
 		)
+		(property "voltage" "10"
+			(at 92.71 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1f859a67-5ae2-49d0-b4be-3e20f76ae7af")
 		)

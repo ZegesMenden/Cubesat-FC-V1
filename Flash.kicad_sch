@@ -1919,6 +1919,15 @@
 				(hide yes)
 			)
 		)
+		(property "voltage" "10"
+			(at 25.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fd45536a-16b0-4f9f-a08d-6a040d7d066f")
 		)
@@ -2188,6 +2197,15 @@
 				(hide yes)
 			)
 		)
+		(property "voltage" "10"
+			(at 63.5 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f9a43990-3da3-4995-88e8-a1189cf67d44")
 		)
@@ -2344,6 +2362,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 38.1 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "voltage" "10"
 			(at 38.1 113.03 0)
 			(effects
 				(font
@@ -2640,6 +2667,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 50.8 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "voltage" "10"
 			(at 50.8 113.03 0)
 			(effects
 				(font

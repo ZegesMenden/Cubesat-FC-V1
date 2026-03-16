@@ -3248,6 +3248,15 @@
 				(hide yes)
 			)
 		)
+		(property "voltage" "10"
+			(at 139.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dddad062-d681-4289-8211-72d2a5950283")
 		)
@@ -3375,6 +3384,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 148.59 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "voltage" "10"
 			(at 148.59 50.8 0)
 			(effects
 				(font
