@@ -12435,7 +12435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
+		(property "Description" "53253-0470"
 			(at 386.08 90.17 0)
 			(effects
 				(font
@@ -12509,7 +12509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
+		(property "Description" "53253-0470"
 			(at 354.33 166.37 0)
 			(effects
 				(font
@@ -13803,7 +13803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
+		(property "Description" "53253-0470"
 			(at 386.08 158.75 0)
 			(effects
 				(font
@@ -14613,7 +14613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated"
+		(property "Description" "53253-0370"
 			(at 424.18 53.34 0)
 			(effects
 				(font
@@ -15243,7 +15243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
+		(property "Description" "53253-0470"
 			(at 386.08 135.89 0)
 			(effects
 				(font
@@ -16281,7 +16281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated"
+		(property "Description" "53253-0370"
 			(at 386.08 69.85 0)
 			(effects
 				(font
@@ -18833,7 +18833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated"
+		(property "Description" "53253-0370"
 			(at 424.18 69.85 0)
 			(effects
 				(font
@@ -19807,7 +19807,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical"
 			(at 341.63 59.69 0)
 			(effects
 				(font
@@ -20508,7 +20508,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
+		(property "Description" "53253-0470"
 			(at 386.08 113.03 0)
 			(effects
 				(font
@@ -21256,7 +21256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated"
+		(property "Description" "53253-0370"
 			(at 386.08 53.34 0)
 			(effects
 				(font
@@ -21446,7 +21446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical"
 			(at 341.63 100.33 0)
 			(effects
 				(font
