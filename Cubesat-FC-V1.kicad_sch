@@ -5907,16 +5907,16 @@
 		(uuid "8b1fbbbc-b5c7-4a5a-9017-51f959ae0d1e")
 	)
 	(junction
+		(at 393.7 204.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b71ce01-e2ec-4844-ad70-6c203e909fb2")
+	)
+	(junction
 		(at 330.2 196.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d0eef12-a90b-44d0-8f3d-d1c82c21ad17")
-	)
-	(junction
-		(at 386.08 196.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a620ad33-f775-44bb-871b-d27f70a5173b")
 	)
 	(junction
 		(at 354.33 100.33)
@@ -7072,7 +7072,7 @@
 	)
 	(wire
 		(pts
-			(xy 387.35 195.58) (xy 387.35 196.85)
+			(xy 394.97 203.2) (xy 394.97 204.47)
 		)
 		(stroke
 			(width 0)
@@ -7442,7 +7442,7 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 196.85) (xy 387.35 196.85)
+			(xy 393.7 204.47) (xy 394.97 204.47)
 		)
 		(stroke
 			(width 0)
@@ -18921,6 +18921,73 @@
 			(project ""
 				(path "/f01d9098-91c1-4e97-a02a-fecce6a76317"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 394.97 203.2 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a94704c3-5784-4714-807d-737f221ce7be")
+		(property "Reference" "#PWR027"
+			(at 394.97 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 394.97 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 394.97 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 394.97 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 394.97 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e1e46a4d-0415-46b6-a484-1e3c15bcc989")
+		)
+		(instances
+			(project "Cubesat-FC-V1"
+				(path "/f01d9098-91c1-4e97-a02a-fecce6a76317"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)

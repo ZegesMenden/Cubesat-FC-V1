@@ -12498,7 +12498,7 @@
 	)
 	(hierarchical_label "CS_INS_IMU_SEC1"
 		(shape input)
-		(at 204.47 134.62 0)
+		(at 204.47 137.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12828,7 +12828,7 @@
 	)
 	(hierarchical_label "CS_INS_MAG"
 		(shape input)
-		(at 204.47 137.16 0)
+		(at 204.47 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
