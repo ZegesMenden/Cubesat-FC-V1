@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "15ec8c37-7d06-4199-9315-beba096bfb56")
 	(paper "A5")
+	(title_block
+		(date "2026-03-22")
+		(rev "R1")
+		(company "UMASS Cubesat Lab")
+	)
 	(lib_symbols
 		(symbol "Connector:Micro_SD_Card"
 			(pin_names

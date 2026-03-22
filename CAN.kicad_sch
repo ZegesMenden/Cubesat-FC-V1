@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "a5b069be-4947-4d60-9368-01de479c8cc0")
 	(paper "A5")
+	(title_block
+		(date "2026-03-22")
+		(rev "R1")
+		(company "UMASS Cubesat Lab")
+	)
 	(lib_symbols
 		(symbol "Device:C_Small"
 			(pin_numbers
