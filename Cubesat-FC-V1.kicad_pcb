@@ -2745,7 +2745,7 @@
 			(uuid "e11903aa-7282-4164-965a-218c264f56e0")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/532530370.stp"
+		(model "${KIPRJMOD}/3dmodels/532530370.stp"
 			(offset
 				(xyz 2 -2.6 7.25)
 			)
@@ -3537,6 +3537,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3548,6 +3549,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6613,7 +6615,7 @@
 			(uuid "280b9568-de84-4b90-845c-8bc42592e9ee")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/532530470.stp"
+		(model "${KIPRJMOD}/3dmodels/532530470.stp"
 			(offset
 				(xyz 3 -2.6 7.25)
 			)
@@ -9121,7 +9123,7 @@
 			(uuid "c3fbb189-4bf3-47e9-b522-671773894a70")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/532530370.stp"
+		(model "${KIPRJMOD}/3dmodels/532530370.stp"
 			(offset
 				(xyz 2 -2.6 7.25)
 			)
@@ -10490,7 +10492,7 @@
 			(uuid "3ae202f7-777d-423e-96c1-8216b6416d88")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/532530370.stp"
+		(model "${KIPRJMOD}/3dmodels/532530370.stp"
 			(offset
 				(xyz 2 -2.6 7.25)
 			)
@@ -16940,6 +16942,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16951,6 +16954,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17571,7 +17575,7 @@
 			(uuid "ecc80fda-b5c4-4753-887c-58cff1ca7ce9")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/SCH16T-K10-10--3DModel-STEP-510211.STEP"
+		(model "${KIPRJMOD}/3dmodels/SCH16T-K10-10--3DModel-STEP-510211.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29222,7 +29226,7 @@
 			(uuid "81454db1-6b5b-4447-bb9e-f9ddcf654ec7")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/532530470.stp"
+		(model "${KIPRJMOD}/3dmodels/532530470.stp"
 			(offset
 				(xyz 3 -2.6 7.25)
 			)
@@ -29439,7 +29443,6 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(net 89)
 			(uuid "5b470b66-f33c-4f39-a322-aae59da08c28")
 		)
 		(embedded_fonts no)
@@ -33889,7 +33892,7 @@
 			(uuid "bc3b25e2-1ec6-4abf-9b75-03285ac163b4")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/532530470.stp"
+		(model "${KIPRJMOD}/3dmodels/532530470.stp"
 			(offset
 				(xyz 3 -2.6 7.25)
 			)
@@ -35071,6 +35074,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35082,6 +35086,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37476,7 +37481,7 @@
 			(uuid "75ada560-a805-4c26-841a-ec7412dcdc99")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/532530470.stp"
+		(model "${KIPRJMOD}/3dmodels/532530470.stp"
 			(offset
 				(xyz 3 -2.6 7.25)
 			)
@@ -37769,7 +37774,6 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(net 89)
 			(uuid "f59ea8df-dd47-40bc-9f52-8809b4f16523")
 		)
 		(fp_poly
@@ -37807,7 +37811,6 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(net 89)
 			(uuid "e43cbda7-5ae0-49d3-a0b2-0279fd1daf0f")
 		)
 		(embedded_fonts no)
@@ -41415,6 +41418,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -41426,6 +41430,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43892,7 +43897,7 @@
 			(uuid "516d472b-7c56-4a81-9546-f29ff939f22f")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/532530470.stp"
+		(model "${KIPRJMOD}/3dmodels/532530470.stp"
 			(offset
 				(xyz 3 -2.6 7.25)
 			)
@@ -44649,7 +44654,7 @@
 			(uuid "827403da-633a-422b-81f4-a75c5528df9a")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/532530370.stp"
+		(model "${KIPRJMOD}/3dmodels/532530370.stp"
 			(offset
 				(xyz 2 -2.6 7.25)
 			)
@@ -45763,6 +45768,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45775,6 +45781,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -46546,6 +46553,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -46558,6 +46566,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -47368,6 +47377,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -47380,6 +47390,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -49412,6 +49423,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -49424,6 +49436,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -51077,6 +51090,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -51089,6 +51103,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
